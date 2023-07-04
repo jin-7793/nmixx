@@ -15,9 +15,9 @@
             <p class='post_content'>
                 {{$post->body}}
             </p>
-            <p class="button">
-                <button type="button" onClick="history.back()">戻る</button>
-            </p>
-        </div>
+            <div class="footer">
+            <a href="/">戻る</a>
+        　　</div>
+    　　 </div>
     </body>
 </html>
